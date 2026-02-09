@@ -7,7 +7,6 @@ A B C
 A B
 A
 
-
 */
 
 #include <bits/stdc++.h>

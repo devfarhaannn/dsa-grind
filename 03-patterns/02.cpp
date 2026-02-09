@@ -10,6 +10,7 @@
 
 // https://www.naukri.com/code360/problems/n-forest_6570178?leftPanelTabValue=PROBLEM
 
+
 #include <bits/stdc++.h>
 using namespace std;
 
