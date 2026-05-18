@@ -15,8 +15,8 @@ int main()
     int n;
     cin >> n;
 
-    // cout << "fibonacci number: " << fibonacciSeries(n) << " ";
-    
+    //cout << "fibonacci number: " << fibonacciSeries(n) << " ";
+
     cout << "fibonacci series is: " ;
     for (int i = 0; i < n; i++)
     {
